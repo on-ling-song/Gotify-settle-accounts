@@ -1,3 +1,3 @@
 #!/bin/bash
-python3 ../core/Wechat.py
+python ../core/Wechat.py
 ls -l
